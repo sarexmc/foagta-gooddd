@@ -1,0 +1,19 @@
+{
+  "block.revivalcampfire.resurrection_campfire": "Resurrection Campfire",
+  "itemGroup.revivalcampfire": "Resurrection Campfire",
+  "gui.revivalcampfire.title": "Resurrection",
+  "gui.revivalcampfire.revive": "Revive",
+  "gui.revivalcampfire.empty": "No banned players",
+  "msg.revivalcampfire.prepared": "Resurrection of %s prepared",
+  "msg.revivalcampfire.revived": "%s has returned from the dead!",
+  "msg.revivalcampfire.not_banned": "%s is not banned",
+  "msg.revivalcampfire.in_progress": "A ritual is already running for %s",
+  "msg.revivalcampfire.started": "Resurrection ritual started for %s",
+  "msg.revivalcampfire.no_permission": "You don't have permission to use the campfire",
+  "item.revivalcampfire.resurrection_spoon": "Spoon of Resurrection",
+  "item.revivalcampfire.resurrection_spoon.tooltip": "Right-click the Resurrection Campfire",
+  "msg.revivalcampfire.need_spoon": "You need the Spoon of Resurrection",
+  "msg.revivalcampfire.soul_lost": "You lost your soul for reviving someone.",
+  "msg.revivalcampfire.revived_target": "You revived %s.",
+  "msg.revivalcampfire.broadcast": "Player %s has revived %s."
+}

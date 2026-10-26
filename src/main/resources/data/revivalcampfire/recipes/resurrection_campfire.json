@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": { "item": "minecraft:totem_of_undying" },
+    "C": { "item": "minecraft:campfire" },
+    "S": { "item": "minecraft:soul_sand" }
+  },
+  "pattern": [ " T ", "SCS", "SSS" ],
+  "result": { "item": "revivalcampfire:resurrection_campfire" }
+}

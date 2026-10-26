@@ -1,0 +1,19 @@
+{
+  "block.revivalcampfire.resurrection_campfire": "Fogata de Resurrección",
+  "itemGroup.revivalcampfire": "Fogata de Resurrección",
+  "gui.revivalcampfire.title": "Resurrección",
+  "gui.revivalcampfire.revive": "Revivir",
+  "gui.revivalcampfire.empty": "No hay jugadores baneados",
+  "msg.revivalcampfire.prepared": "Resurrección de %s preparada",
+  "msg.revivalcampfire.revived": "¡%s ha regresado de entre los muertos!",
+  "msg.revivalcampfire.not_banned": "%s no está baneado",
+  "msg.revivalcampfire.in_progress": "Ya hay un ritual en curso para %s",
+  "msg.revivalcampfire.started": "Ritual de resurrección iniciado para %s",
+  "msg.revivalcampfire.no_permission": "No tienes permiso para usar la fogata",
+  "item.revivalcampfire.resurrection_spoon": "Cuchara de la Resurrección",
+  "item.revivalcampfire.resurrection_spoon.tooltip": "Click derecho sobre la Fogata de Resurrección",
+  "msg.revivalcampfire.need_spoon": "Necesitas la Cuchara de la Resurrección",
+  "msg.revivalcampfire.soul_lost": "Has perdido tu alma por revivir a alguien.",
+  "msg.revivalcampfire.revived_target": "Reviviste a %s.",
+  "msg.revivalcampfire.broadcast": "Jugador %s ha revivido a %s."
+}

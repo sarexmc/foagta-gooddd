@@ -1,0 +1,20 @@
+{
+  "ritual_main": {
+    "sounds": [
+      {
+        "name": "revivalcampfire:ritual_main",
+        "stream": true
+      }
+    ]
+  },
+  "spoon_use": {
+    "sounds": [
+      "revivalcampfire:spoon_use"
+    ]
+  },
+  "revived": {
+    "sounds": [
+      "revivalcampfire:revived"
+    ]
+  }
+}
